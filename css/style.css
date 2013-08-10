@@ -1,0 +1,71 @@
+body  {
+	background-image: url('../img/back.png');
+	width: 100%;
+	color: #FFF;
+	font:100% Helvetica, Arial, Tahoma, Verdana, Sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	-moz-text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
+	-ms-text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
+	-o-text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
+	text-shadow: 0 0 1px rgba(0, 0, 0, 0.01); /* truque safado para dar uma afinada no texto deixando mais legÃƒÂ­vel */
+	-webkit-text-stroke: 1px transparent ;
+	-moz-text-stroke: 1px transparent ;
+	-ms-text-stroke: 1px transparent ;
+	-o-text-stroke: 1px transparent ;
+	text-stroke: 1px transparent ;
+
+
+}
+
+/*{border: 1px solid #CCC} */
+
+#wrap {
+
+	
+	margin: 0 auto ;
+	width: 970px;
+
+
+}
+
+#head {
+	margin: auto ;
+	height: 103px;
+
+}
+
+#menu {
+	margin-top: 70px;
+	
+	
+	
+}
+
+#menu ul {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+
+
+}
+
+#menu  ul li {
+
+	font-size: 30px;
+	list-style: none;
+	display: inline;
+	
+	 }
+
+
+#menu  ul li a {
+	padding: 2px 10px;
+	color: #FFF;
+	text-decoration: none;
+
+
+}
